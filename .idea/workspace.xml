@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75fe6bbc-3908-4c4b-a713-fa8baa9c4208" name="Default Changelist" comment="" />
+    <list default="true" id="75fe6bbc-3908-4c4b-a713-fa8baa9c4208" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/MainClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FirstTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +23,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +34,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iIGPMbwtukDDpb0EvkInrUrIED" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,7 +42,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -41,7 +53,14 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.FirstTest.scenarioNegativeTesting">
+  <component name="RunManager" selected="JUnit.MainClassTest.scenarioNegative">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="qa-test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qa-test" />
       <option name="PACKAGE_NAME" value="" />
@@ -51,41 +70,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest.firstScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainClassTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qa-test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainClassTest.firstScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="qa-test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
       <option name="METHOD_NAME" value="firstScenario" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstTest.firstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MainClassTest.scenarioNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="qa-test" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="firstTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest.scenarioNegativeTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="qa-test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="scenarioNegativeTesting" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FirstTest.secondScenario" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="qa-test" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FirstTest" />
-      <option name="METHOD_NAME" value="secondScenario" />
+      <option name="MAIN_CLASS_NAME" value="MainClassTest" />
+      <option name="METHOD_NAME" value="scenarioNegative" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.FirstTest.scenarioNegativeTesting" />
+        <item itemvalue="JUnit.MainClassTest.scenarioNegative" />
+        <item itemvalue="JUnit.MainClassTest" />
+        <item itemvalue="JUnit.MainClassTest.firstScenario" />
+        <item itemvalue="Application.MainClass" />
         <item itemvalue="JUnit.FirstTest" />
-        <item itemvalue="JUnit.FirstTest.secondScenario" />
-        <item itemvalue="JUnit.FirstTest.firstScenario" />
-        <item itemvalue="JUnit.FirstTest.firstTest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,34 +135,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="425" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1601589135107" />
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601631942942">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="458" y="215" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1601631942942" />
     <state x="477" y="319" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601588184311">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="319" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1601588184311" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1601602708977">
+    <state width="699" height="244" key="GridCell.Tab.0.bottom" timestamp="1601633036409">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601589581641" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601602708977" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1601602708976">
+    <state width="699" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601633036409" />
+    <state width="699" height="244" key="GridCell.Tab.0.center" timestamp="1601633036408">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601589581640" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601602708976" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1601602708975">
+    <state width="699" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601633036408" />
+    <state width="699" height="244" key="GridCell.Tab.0.left" timestamp="1601633036408">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601589581639" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601602708975" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1601602708976">
+    <state width="699" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601633036408" />
+    <state width="699" height="244" key="GridCell.Tab.0.right" timestamp="1601633036408">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601589581641" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601602708976" />
-    <state x="208" y="21" key="SettingsEditor" timestamp="1601588978933">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="699" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601633036408" />
+    <state x="208" y="43" key="SettingsEditor" timestamp="1601627426290">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="208" y="21" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601588978933" />
-    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601588349145" />
+    <state x="208" y="43" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1601627426290" />
   </component>
 </project>
