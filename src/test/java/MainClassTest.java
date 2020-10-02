@@ -22,7 +22,7 @@ public class MainClassTest {
     }
 
     @Test
-    public void firstScenario() {
+    public void scenario_1() {
         mainPage.clickNewLineOfCredit();
         String heading = mainPage.getHeadText();
         Assert.assertEquals("New Line Of Credit", heading);
@@ -40,7 +40,7 @@ public class MainClassTest {
     }
 
     @Test
-    public void secondScenario() {
+    public void scenario_2() {
         mainPage.clickNewLineOfCredit();
         String heading = mainPage.getHeadText();
         Assert.assertEquals("New Line Of Credit", heading);
@@ -68,7 +68,7 @@ public class MainClassTest {
     }
 
     @Test
-    public void scenarioNegative() {
+    public void negativeScenario() {
         mainPage.clickNewLineOfCredit();
         String heading = mainPage.getHeadText();
         Assert.assertEquals("New Line Of Credit", heading);

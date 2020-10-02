@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75fe6bbc-3908-4c4b-a713-fa8baa9c4208" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/MainPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/MainClassTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/FirstTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FirstTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/FirstTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/FirstTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +47,7 @@
       <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MainClassTest.scenarioNegative">
+  <component name="RunManager" selected="JUnit.MainClassTest">
     <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainClass" />
       <module name="qa-test" />
@@ -101,8 +95,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MainClassTest.scenarioNegative" />
         <item itemvalue="JUnit.MainClassTest" />
+        <item itemvalue="JUnit.MainClassTest.scenarioNegative" />
         <item itemvalue="JUnit.MainClassTest.firstScenario" />
         <item itemvalue="Application.MainClass" />
         <item itemvalue="JUnit.FirstTest" />
@@ -143,26 +137,26 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="477" y="319" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1440.900@0.0.1440.900" timestamp="1601588184311" />
-    <state width="699" height="244" key="GridCell.Tab.0.bottom" timestamp="1601633036409">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1601633500405">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601589581641" />
-    <state width="699" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601633036409" />
-    <state width="699" height="244" key="GridCell.Tab.0.center" timestamp="1601633036408">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1601633500405" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1601633500404">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601589581640" />
-    <state width="699" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601633036408" />
-    <state width="699" height="244" key="GridCell.Tab.0.left" timestamp="1601633036408">
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1601633500404" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1601633500404">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601589581639" />
-    <state width="699" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601633036408" />
-    <state width="699" height="244" key="GridCell.Tab.0.right" timestamp="1601633036408">
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1601633500404" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1601633500405">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601589581641" />
-    <state width="699" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601633036408" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1601633500405" />
     <state x="208" y="43" key="SettingsEditor" timestamp="1601627426290">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
